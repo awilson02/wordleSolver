@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="40mm"
+    android:layout_height="50mm"
+    android:layout_gravity="center"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="1mm"
+        android:paddingRight="1mm"
+        android:paddingBottom="3mm"
+        android:background="@drawable/rounded_corner_grey"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="5mm"
+            android:layout_marginBottom="1mm"
+            android:text="Instructions:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="7mm"
+
+            android:text="Input the suggest word into Wordle."
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="8mm"
+            android:text="Then tap the letters in the app to set the colors and press submit"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="9mm"
+            android:text="Press button on top left or swipe to view possible words and click one if you wish to use it as your guess"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10mm"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/yes"
+                android:layout_width="15mm"
+                android:layout_height="7mm"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/rounded_corner_green"
+                android:gravity="center"
+                android:text="Okay"
+                android:textColor="@color/white"
+
+                android:textSize="12sp"
+                app:iconTint="@null"></TextView>
+        </LinearLayout>
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

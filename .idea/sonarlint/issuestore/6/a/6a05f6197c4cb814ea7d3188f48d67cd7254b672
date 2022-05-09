@@ -1,0 +1,214 @@
+
+l
+java:S1450/"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ
+3
+java:S23867"Make this member "protected".(Š¬Ä
+3
+java:S23868"Make this member "protected".(È˜‚
+8
+java:S2386;"Make this member "protected".(€İÇûÿÿÿÿ
+3
+java:S2386<"Make this member "protected".(ÛËç
+8
+java:S2386="Make this member "protected".(èƒ—§ÿÿÿÿÿ
+3
+java:S2386A"Make this member "protected".(Œ§İ‚
+8
+java:S2386F"Make this member "protected".(½ £¡øÿÿÿÿ
+8
+java:S2386L"Make this member "protected".(¿‹µ½ÿÿÿÿÿ
+8
+java:S2386U"Make this member "protected".(ëîÀŞÿÿÿÿÿ
+H
+java:S1905L"-Remove this unnecessary cast to "Collection".(¿‹µ½ÿÿÿÿÿ
+H
+java:S1905V"-Remove this unnecessary cast to "Collection".(Á¿×·ıÿÿÿÿ
+2
+java:S3626¢"Remove this redundant jump.(ûÁİ…
+8
+java:S1116Í"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116Ö"Remove this empty statement.(Åñ­õşÿÿÿÿ
+P
+java:S4719ƒ"9Replace charset name argument with StandardCharsets.UTF_8(®û§§
+U
+java:S4719–"9Replace charset name argument with StandardCharsets.UTF_8(åÑø‚øÿÿÿÿ
+8
+java:S1116Ä"Remove this empty statement.(Åñ­õşÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ëôî”
+D	java:S108Ö")Either remove or fill this block of code.(ã¶‹Áüÿÿÿÿ
+i
+java:S1871à"MThis branch's code block is the same as the block for the branch on line 347.(ü…¹…úÿÿÿÿ
+7
+java:S1110Û"!Remove these useless parentheses.(¾€¶	
+d
+java:S1871ñ"MThis branch's code block is the same as the block for the branch on line 365.(™¥°é
+>	java:S108ğ")Either remove or fill this block of code.(Ò¿'
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(æÈÏ‘üÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Àù²úüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ñ†’ûÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(¹¸’Ëüÿÿÿÿ
+o
+java:S3776Ù"SRefactor this method to reduce its Cognitive Complexity from 248 to the 15 allowed.(‚èâ“ùÿÿÿÿ
+R
+java:S2696ô"6Make the enclosing method "static" or remove this set.(óƒÊùıÿÿÿÿ
+8
+java:S1116–"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116¦"Remove this empty statement.(Åñ­õşÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(®•¿ãÿÿÿÿÿ
+R
+java:S2696ù"6Make the enclosing method "static" or remove this set.(×¨¦ìüÿÿÿÿ
+M
+java:S2696ú"6Make the enclosing method "static" or remove this set.(ßÜ
+L
+java:S2696û"6Make the enclosing method "static" or remove this set.(Üù¥m
+L
+java:S2696ü"6Make the enclosing method "static" or remove this set.(ó²•)
+M
+java:S2696ı"6Make the enclosing method "static" or remove this set.(Ñ»”¡
+M
+java:S2696ş"6Make the enclosing method "static" or remove this set.(ø¡ 
+M
+java:S2696ÿ"6Make the enclosing method "static" or remove this set.(Ë¤«ö
+M
+java:S2696€"6Make the enclosing method "static" or remove this set.(ø”ç
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(Ø¿
+R
+java:S2696‚"6Make the enclosing method "static" or remove this set.(Ëš¨ìüÿÿÿÿ
+M
+java:S2696ƒ"6Make the enclosing method "static" or remove this set.(ıÅ¶¯
+R
+java:S2696å"6Make the enclosing method "static" or remove this set.(”œÆÿÿÿÿÿ
+l
+java:S3252	"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(òÑ±äÿÿÿÿÿ
+l
+java:S3252	"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(³ì’éøÿÿÿÿ
+M
+java:S2696œ	"6Make the enclosing method "static" or remove this set.(Ò·Çõ
+2
+java:S3626ª	"Remove this redundant jump.(ûÁİ…
+l
+java:S3252À	"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(òÑ±äÿÿÿÿÿ
+l
+java:S3252Á	"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(³ì’éøÿÿÿÿ
+N
+java:S1068."8Remove this unused "mAppBarConfiguration" private field.(ÒËşØ
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ £¡øÿÿÿÿ
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿‹µ½ÿÿÿÿÿ
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëîÀŞÿÿÿÿÿ
+`
+java:S1192å"IDefine a constant instead of duplicating this literal "#FAD002" 32 times.(½™Èá
+_
+java:S1192ã"IDefine a constant instead of duplicating this literal "#6D6E81" 31 times.(‹ù¹
+b
+java:S1192Ğ"FDefine a constant instead of duplicating this literal "@null" 4 times.(™‘ÿòúÿÿÿÿ
+m	java:S127’"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127­"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127ƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+E
+java:S1066â"/Merge this if statement with the enclosing one.(±×7
+{
+java:S13197"eThe type of "words" should be an interface such as "List" rather than the implementation "ArrayList".(Š¬Ä
+|
+java:S13198"fThe type of "common" should be an interface such as "List" rather than the implementation "ArrayList".(È˜‚
+ƒ
+java:S1319;"hThe type of "usedChar" should be an interface such as "List" rather than the implementation "ArrayList".(€İÇûÿÿÿÿ
+ƒ
+java:S1319<"mThe type of "containedChar" should be an interface such as "List" rather than the implementation "ArrayList".(ÛËç
+
+java:S1319="dThe type of "word" should be an interface such as "List" rather than the implementation "ArrayList".(èƒ—§ÿÿÿÿÿ
+€
+java:S1319A"jThe type of "yellowWord" should be an interface such as "List" rather than the implementation "ArrayList".(Œ§İ‚
+‚
+java:S1319F"gThe type of "letters" should be an interface such as "List" rather than the implementation "ArrayList".(½ £¡øÿÿÿÿ
+€
+java:S1319L"eThe type of "score" should be an interface such as "List" rather than the implementation "ArrayList".(¿‹µ½ÿÿÿÿÿ
+ˆ
+java:S1319U"mThe type of "positionScore" should be an interface such as "List" rather than the implementation "ArrayList".(ëîÀŞÿÿÿÿÿ
+>
+java:S1604›"(Make this anonymous inner class a lambda(•ƒ1
+D
+java:S1604´"(Make this anonymous inner class a lambda(Æ¹ÿıÿÿÿÿ
+?
+java:S1604˜	"(Make this anonymous inner class a lambda(ğ´™œ
+?
+java:S1604¦	"(Make this anonymous inner class a lambda(İ“êÿ
+D
+java:S1604®	"(Make this anonymous inner class a lambda(Ó×Ù£ùÿÿÿÿ
+D
+java:S1604È	"(Make this anonymous inner class a lambda(Ó×Ù£ùÿÿÿÿ
+Z
+java:S1155İ">Use isEmpty() to check whether the collection is empty or not.(İÇğğşÿÿÿÿ
+g
+java:S11047"QMake words a static final constant or non-public and provide accessors if needed.(Š¬Ä
+h
+java:S11048"RMake common a static final constant or non-public and provide accessors if needed.(È˜‚
+l
+java:S11049"QMake guess a static final constant or non-public and provide accessors if needed.(ÁÑƒ’üÿÿÿÿ
+g
+java:S1104:"QMake input a static final constant or non-public and provide accessors if needed.(ÒÔä¸
+o
+java:S1104;"TMake usedChar a static final constant or non-public and provide accessors if needed.(€İÇûÿÿÿÿ
+o
+java:S1104<"YMake containedChar a static final constant or non-public and provide accessors if needed.(ÛËç
+k
+java:S1104="PMake word a static final constant or non-public and provide accessors if needed.(èƒ—§ÿÿÿÿÿ
+l
+java:S1104?"VMake userInTest a static final constant or non-public and provide accessors if needed.(ÜòŸİ
+l
+java:S1104A"VMake yellowWord a static final constant or non-public and provide accessors if needed.(Œ§İ‚
+l
+java:S1104B"VMake userSubmit a static final constant or non-public and provide accessors if needed.(«œŞÂ
+n
+java:S1104F"SMake letters a static final constant or non-public and provide accessors if needed.(½ £¡øÿÿÿÿ
+l
+java:S1104L"QMake score a static final constant or non-public and provide accessors if needed.(¿‹µ½ÿÿÿÿÿ
+t
+java:S1104U"YMake positionScore a static final constant or non-public and provide accessors if needed.(ëîÀŞÿÿÿÿÿ
+k
+java:S1104|"UMake wordGuess a static final constant or non-public and provide accessors if needed.(Œ·Îç
+i
+java:S1104}"SMake yellows a static final constant or non-public and provide accessors if needed.(°‡şš
+n
+java:S1104"WMake containsTwo a static final constant or non-public and provide accessors if needed.(¤—Ü¹
+A
+java:S14447"+Make this "public static words" field final(Š¬Ä
+B
+java:S14448",Make this "public static common" field final(È˜‚
+F
+java:S14449"+Make this "public static guess" field final(ÁÑƒ’üÿÿÿÿ
+A
+java:S1444:"+Make this "public static input" field final(ÒÔä¸
+I
+java:S1444;".Make this "public static usedChar" field final(€İÇûÿÿÿÿ
+I
+java:S1444<"3Make this "public static containedChar" field final(ÛËç
+E
+java:S1444="*Make this "public static word" field final(èƒ—§ÿÿÿÿÿ
+F
+java:S1444A"0Make this "public static yellowWord" field final(Œ§İ‚
+H
+java:S1444F"-Make this "public static letters" field final(½ £¡øÿÿÿÿ
+F
+java:S1444L"+Make this "public static score" field final(¿‹µ½ÿÿÿÿÿ
+N
+java:S1444U"3Make this "public static positionScore" field final(ëîÀŞÿÿÿÿÿ
+E
+java:S1444|"/Make this "public static wordGuess" field final(Œ·Îç
+C
+java:S1444}"-Make this "public static yellows" field final(°‡şš
+H
+java:S1444"1Make this "public static containsTwo" field final(¤—Ü¹
+[
+java:S2259"DA "NullPointerException" could be thrown; "reader" is nullable here.(°ĞãÇ
