@@ -296,7 +296,13 @@ public class MainActivity extends AppCompatActivity {
         }
 
         setButtonsText();
-
+    final View anyView = findViewById(R.id.drawer_layout);
+        anyView.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+               showInstructs();
+            }
+        }, 1);
 
     }
 
@@ -304,13 +310,7 @@ public class MainActivity extends AppCompatActivity {
     public void onStart() {
 
         super.onStart();
-        final View anyView = findViewById(R.id.drawer_layout);
-        anyView.postDelayed(new Runnable() {
-            @Override
-            public void run() {
-               showInstructs();
-            }
-        }, 1);
+   
 
     }
 
