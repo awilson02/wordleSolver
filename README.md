@@ -1,7 +1,7 @@
 
 ## Author
 
-* Alexander Wilson alexwilson@comcast.net
+* Alexander Wilson alexpwilson2@gmail.com
 
 ## Description
 This is an Android App to help solve Wordle puzzles. 
