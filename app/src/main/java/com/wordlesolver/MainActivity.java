@@ -1011,6 +1011,16 @@ public class MainActivity extends AppCompatActivity {
 
 
                 }
+                //check if letter is already know if so make it green and cannot change 
+                for(int x = 0; x < word.size(); x++)
+                {
+                    if(word.get(x) != '-')
+                    {
+                        tileButtons.get(guess).get(x).setBackgroundColor(Color.parseColor("#458802"));
+                        tileButtons.get(guess).get(x).setEnabled(false);
+                    }
+                }
+                
                 break;
             case R.id.resetButton:
 
