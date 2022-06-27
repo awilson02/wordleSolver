@@ -251,7 +251,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         setButtonsText();
-<<<<<<< HEAD
 
         final View anyView = findViewById(R.id.drawer_layout);
         anyView.postDelayed(new Runnable() {
@@ -260,27 +259,13 @@ public class MainActivity extends AppCompatActivity {
                 showInstructs();
             }
         }, 1);
-=======
-    final View anyView = findViewById(R.id.drawer_layout);
-        anyView.postDelayed(new Runnable() {
-            @Override
-            public void run() {
-               showInstructs();
-            }
-        }, 1);
-
->>>>>>> b9159cf40fa1619e37da470dd3a650bd0a3c345b
     }
 
     @Override
     public void onStart() {
 
         super.onStart();
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> b9159cf40fa1619e37da470dd3a650bd0a3c345b
 
     }
 
@@ -982,29 +967,16 @@ public class MainActivity extends AppCompatActivity {
 
 
                 }
-<<<<<<< HEAD
 
                 for(int x = 0; x < word.size(); x++)
                 {
-                    if(guess !=6) {
+                    if(guess !=5) {
                         if (word.get(x) != '-') {
                             tileButtons.get(guess).get(x).setBackgroundColor(Color.parseColor("#458802"));
                             tileButtons.get(guess).get(x).setEnabled(false);
                         }
                     }
                 }
-=======
-                //check if letter is already know if so make it green and cannot change 
-                for(int x = 0; x < word.size(); x++)
-                {
-                    if(word.get(x) != '-')
-                    {
-                        tileButtons.get(guess).get(x).setBackgroundColor(Color.parseColor("#458802"));
-                        tileButtons.get(guess).get(x).setEnabled(false);
-                    }
-                }
-                
->>>>>>> b9159cf40fa1619e37da470dd3a650bd0a3c345b
                 break;
             case R.id.resetButton:
 
